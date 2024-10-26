@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsequeira&show_icons=true&locale=en" alt="samsequeira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsequeira&" alt="samsequeira" /></p>
+[![Instagram](https://i.pinimg.com/originals/8a/3b/05/8a3b055d7e3cc52a0f0053535f0339ea.jpg)](https://www.instagram.com/samson.sequeira)
+
